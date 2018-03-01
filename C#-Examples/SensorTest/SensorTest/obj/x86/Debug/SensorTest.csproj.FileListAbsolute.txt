@@ -1,0 +1,12 @@
+C:\Users\THINKPAD\Desktop\SensorTest\SensorTest\bin\Debug\SensorTest.exe.config
+C:\Users\THINKPAD\Desktop\SensorTest\SensorTest\obj\x86\Debug\SensorTest.Form1.resources
+C:\Users\THINKPAD\Desktop\SensorTest\SensorTest\obj\x86\Debug\SensorTest.Properties.Resources.resources
+C:\Users\THINKPAD\Desktop\SensorTest\SensorTest\obj\x86\Debug\SensorTest.csproj.GenerateResource.Cache
+C:\Users\THINKPAD\Desktop\SensorTest\SensorTest\bin\Debug\SensorTest.exe
+C:\Users\THINKPAD\Desktop\SensorTest\SensorTest\bin\Debug\SensorTest.pdb
+C:\Users\THINKPAD\Desktop\SensorTest\SensorTest\obj\x86\Debug\SensorTest.exe
+C:\Users\THINKPAD\Desktop\SensorTest\SensorTest\obj\x86\Debug\SensorTest.pdb
+C:\Users\THINKPAD\Desktop\SensorTest\SensorTest\obj\x86\Debug\SensorTest.csprojResolveAssemblyReference.cache
+C:\Users\THINKPAD\Desktop\SensorTest\SensorTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\THINKPAD\Desktop\SensorTest\SensorTest\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\THINKPAD\Desktop\SensorTest\SensorTest\bin\Debug\Newtonsoft.Json.xml

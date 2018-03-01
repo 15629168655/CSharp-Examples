@@ -1,0 +1,8 @@
+C:\Users\THINKPAD\Desktop\ThreadTest\ThreadTest\bin\Debug\ThreadTest.exe
+C:\Users\THINKPAD\Desktop\ThreadTest\ThreadTest\bin\Debug\ThreadTest.pdb
+C:\Users\THINKPAD\Desktop\ThreadTest\ThreadTest\obj\x86\Debug\ThreadTest.Form1.resources
+C:\Users\THINKPAD\Desktop\ThreadTest\ThreadTest\obj\x86\Debug\ThreadTest.Properties.Resources.resources
+C:\Users\THINKPAD\Desktop\ThreadTest\ThreadTest\obj\x86\Debug\ThreadTest.csproj.GenerateResource.Cache
+C:\Users\THINKPAD\Desktop\ThreadTest\ThreadTest\obj\x86\Debug\ThreadTest.exe
+C:\Users\THINKPAD\Desktop\ThreadTest\ThreadTest\obj\x86\Debug\ThreadTest.pdb
+C:\Users\THINKPAD\Desktop\ThreadTest\ThreadTest\obj\x86\Debug\ThreadTest.csprojResolveAssemblyReference.cache

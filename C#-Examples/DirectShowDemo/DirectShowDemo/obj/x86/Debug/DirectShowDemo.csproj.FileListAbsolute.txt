@@ -1,0 +1,14 @@
+C:\Users\THINKPAD\Desktop\DirectShowDemo\DirectShowDemo\bin\Debug\DirectShowDemo.exe.config
+C:\Users\THINKPAD\Desktop\DirectShowDemo\DirectShowDemo\bin\Debug\DirectShowDemo.exe
+C:\Users\THINKPAD\Desktop\DirectShowDemo\DirectShowDemo\bin\Debug\DirectShowDemo.pdb
+C:\Users\THINKPAD\Desktop\DirectShowDemo\DirectShowDemo\bin\Debug\AForge.dll
+C:\Users\THINKPAD\Desktop\DirectShowDemo\DirectShowDemo\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\THINKPAD\Desktop\DirectShowDemo\DirectShowDemo\bin\Debug\AForge.Video.dll
+C:\Users\THINKPAD\Desktop\DirectShowDemo\DirectShowDemo\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\THINKPAD\Desktop\DirectShowDemo\DirectShowDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\THINKPAD\Desktop\DirectShowDemo\DirectShowDemo\obj\x86\Debug\DirectShowDemo.frmCapture.resources
+C:\Users\THINKPAD\Desktop\DirectShowDemo\DirectShowDemo\obj\x86\Debug\DirectShowDemo.Properties.Resources.resources
+C:\Users\THINKPAD\Desktop\DirectShowDemo\DirectShowDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\THINKPAD\Desktop\DirectShowDemo\DirectShowDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\THINKPAD\Desktop\DirectShowDemo\DirectShowDemo\obj\x86\Debug\DirectShowDemo.exe
+C:\Users\THINKPAD\Desktop\DirectShowDemo\DirectShowDemo\obj\x86\Debug\DirectShowDemo.pdb

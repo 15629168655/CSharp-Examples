@@ -1,0 +1,14 @@
+d:\documents\visual studio 2010\Projects\snmpTest\snmpTest\bin\Debug\snmpTest.exe
+d:\documents\visual studio 2010\Projects\snmpTest\snmpTest\bin\Debug\snmpTest.pdb
+d:\documents\visual studio 2010\Projects\snmpTest\snmpTest\bin\Debug\SnmpSharpNet.dll
+d:\documents\visual studio 2010\Projects\snmpTest\snmpTest\bin\Debug\SnmpSharpNet.pdb
+d:\documents\visual studio 2010\Projects\snmpTest\snmpTest\bin\Debug\SnmpSharpNet.xml
+d:\documents\visual studio 2010\Projects\snmpTest\snmpTest\obj\x86\Debug\snmpTest.Form1.resources
+d:\documents\visual studio 2010\Projects\snmpTest\snmpTest\obj\x86\Debug\snmpTest.Form2.resources
+d:\documents\visual studio 2010\Projects\snmpTest\snmpTest\obj\x86\Debug\snmpTest.Form3.resources
+d:\documents\visual studio 2010\Projects\snmpTest\snmpTest\obj\x86\Debug\snmpTest.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\snmpTest\snmpTest\obj\x86\Debug\snmpTest.csproj.GenerateResource.Cache
+d:\documents\visual studio 2010\Projects\snmpTest\snmpTest\obj\x86\Debug\snmpTest.exe
+d:\documents\visual studio 2010\Projects\snmpTest\snmpTest\obj\x86\Debug\snmpTest.pdb
+C:\Users\THINKPAD\Desktop\snmpTest\snmpTest\obj\x86\Debug\snmpTest.exe
+C:\Users\THINKPAD\Desktop\snmpTest\snmpTest\obj\x86\Debug\snmpTest.pdb

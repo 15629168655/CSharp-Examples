@@ -1,0 +1,11 @@
+C:\Users\THINKPAD\Desktop\SwitchTest\SwitchTest\bin\Debug\SwitchTest.exe
+C:\Users\THINKPAD\Desktop\SwitchTest\SwitchTest\bin\Debug\SwitchTest.pdb
+C:\Users\THINKPAD\Desktop\SwitchTest\SwitchTest\bin\Debug\SnmpSharpNet.dll
+C:\Users\THINKPAD\Desktop\SwitchTest\SwitchTest\bin\Debug\SnmpSharpNet.pdb
+C:\Users\THINKPAD\Desktop\SwitchTest\SwitchTest\bin\Debug\SnmpSharpNet.xml
+C:\Users\THINKPAD\Desktop\SwitchTest\SwitchTest\obj\x86\Debug\SwitchTest.csprojResolveAssemblyReference.cache
+C:\Users\THINKPAD\Desktop\SwitchTest\SwitchTest\obj\x86\Debug\SwitchTest.Form1.resources
+C:\Users\THINKPAD\Desktop\SwitchTest\SwitchTest\obj\x86\Debug\SwitchTest.Properties.Resources.resources
+C:\Users\THINKPAD\Desktop\SwitchTest\SwitchTest\obj\x86\Debug\SwitchTest.csproj.GenerateResource.Cache
+C:\Users\THINKPAD\Desktop\SwitchTest\SwitchTest\obj\x86\Debug\SwitchTest.exe
+C:\Users\THINKPAD\Desktop\SwitchTest\SwitchTest\obj\x86\Debug\SwitchTest.pdb
